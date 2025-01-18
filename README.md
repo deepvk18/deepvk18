@@ -66,7 +66,7 @@ I'm a **Full Stack Developer** and **Full Stack Blockchain Developer** passionat
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deep-banerjee-984819281)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox)](https://your-portfolio-link.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile)  
 
