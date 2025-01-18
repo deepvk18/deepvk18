@@ -45,7 +45,7 @@ I'm a **Full Stack Developer** and **Full Stack Blockchain Developer** passionat
 
 <div align="center">
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepvk18&layout=compact&theme=radical)
 
 </div>
 
