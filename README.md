@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-![Profile Banner](https://github-header=image.png)
+![Profile Banner](https://github.com/deepvk18/deepvk18/blob/main/github-header-image.png)
 
 I'm a **Full Stack Developer** and **Full Stack Blockchain Developer** passionate about building scalable, innovative, and secure web2 and web3 solutions. 
 
